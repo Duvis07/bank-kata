@@ -1,3 +1,5 @@
+package workshop;
+
 public class Account {
 
     void deposit(int amount) {
